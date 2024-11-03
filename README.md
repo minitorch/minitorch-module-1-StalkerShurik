@@ -1,6 +1,6 @@
 <h1>Example1:</h1>
 
-<h2>Dataset:Cirle</h2>
+<h2>Dataset:Simple</h2>
 
 <h2>Model: hs=2, lr=0.05, epochs=500</h2>
 
